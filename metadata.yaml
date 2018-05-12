@@ -1,0 +1,36 @@
+_repo: Lives-of-Celebrated-Women_33273
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goodrich, Samuel G. (Samuel Griswold)
+    aliases:
+    - Goodrich, S. G. (Samuel Griswold)
+    - Goodrich, Samuel Griswold
+    - Parley, Peter
+    birthdate: 1793
+    deathdate: 1860
+    gutenberg_agent_id: '4027'
+    url: http://www.gutenberg.org/2009/agents/4027
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Griswold_Goodrich
+description: ''
+gutenberg_issued: '2010-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Biography'
+- !lcc 'CT'
+tableOfContents: Lucretia and Margaret Davidson -- Mrs. Adams -- Mrs. Washington --
+  Madame de Stael -- Lady Hester Stanhope -- Hannah More -- Mrs. Barbauld -- Madame
+  de Genlis -- Josephine -- Marie Antoinette -- Madame Roland -- Madame de Sévigné
+  -- Mary, Queen of Scots -- Elizabeth, Queen of England -- Isabella of Spain -- Joan
+  of Arc.
+title: Lives of Celebrated Women
+url: http://www.gutenberg.org/ebooks/33273
